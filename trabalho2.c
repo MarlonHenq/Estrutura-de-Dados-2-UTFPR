@@ -1,5 +1,4 @@
 //Marlon Henrique Sanches
-//RA: 2407388
 
 /*Para compila-lo utilize no terminal em mesmo diretório “gcc trabalho2.c”,
 isso gerará um “a.out” que após a digitação no mesmo terminal de “./a.out” executará o programa.
